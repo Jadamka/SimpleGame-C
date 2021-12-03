@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1616686151 source:c:\users\adamk\desktop\c\snake2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<unistd.h>
+
+1617788431 source:c:\users\adamk\desktop\c\simplegame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<unistd.h>
+
